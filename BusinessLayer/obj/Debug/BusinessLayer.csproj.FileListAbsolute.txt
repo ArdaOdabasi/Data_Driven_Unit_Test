@@ -1,0 +1,7 @@
+C:\Users\pi\source\repos\C# Course\Test Driven Development\Data_Driven_Unit_Test\BusinessLayer\bin\Debug\BusinessLayer.exe.config
+C:\Users\pi\source\repos\C# Course\Test Driven Development\Data_Driven_Unit_Test\BusinessLayer\bin\Debug\BusinessLayer.exe
+C:\Users\pi\source\repos\C# Course\Test Driven Development\Data_Driven_Unit_Test\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\pi\source\repos\C# Course\Test Driven Development\Data_Driven_Unit_Test\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\pi\source\repos\C# Course\Test Driven Development\Data_Driven_Unit_Test\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\pi\source\repos\C# Course\Test Driven Development\Data_Driven_Unit_Test\BusinessLayer\obj\Debug\BusinessLayer.exe
+C:\Users\pi\source\repos\C# Course\Test Driven Development\Data_Driven_Unit_Test\BusinessLayer\obj\Debug\BusinessLayer.pdb

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Users>
+	<User ad="Arda" mail="arda@fenerbahce.tr" telefon="19071907"/>
+	<User ad="Sevilay" mail="sevilay@galatasaray.tr" telefon="19051905"/>
+	<User ad="Dursun" mail="dursun@besiktas.tr" telefon="19031903"/>
+	<User ad="Fehmi" mail="fehmi@basaksehir.tr" telefon="19011901"/>
+	<User ad="Ahmet" mail="ahmet@rizespor.tr" telefon="19021902"/>
+</Users>
